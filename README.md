@@ -1,5 +1,5 @@
 # 💫 About Me:
-help design repo in git hub for me<br>
+Hello My Name is Sar Chanrithy.<br>
 
 
 ## 🌐 Socials:
