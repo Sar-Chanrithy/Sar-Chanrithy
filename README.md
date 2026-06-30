@@ -1,74 +1,97 @@
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=166463b9" />
-<source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=9595e6e8" />
-<img src="./assets/banner-dark.svg?v=166463b9" alt="Banner" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-dark.svg" alt="Banner" width="100%" />
 </picture>
+
+# Hi 👋 I'm Sar Chanrithy
+
+💻 Web Developer | 🌱 Learning Laravel, Spring Boot & AI  
+🎓 Computer Science Student from Cambodia
 
 </div>
 
+---
+
 <details>
-<summary><b>👨‍💻 as a coder</b></summary>
-<br />
+<summary><b>👨‍💻 As a Coder</b></summary>
+
+<br>
+
 <img src="./assets/metrics-coder.svg" alt="coder" width="100%" />
 
-### Last 7 days
+### Last 7 Days
 
 <!--START:WAKA-->
-**Total coded:** 7 hrs 23 mins
-
-`Other 68.0%` · `Python 10.4%` · `JavaScript 6.4%` · `Markdown 5.0%` · `Dart 4.0%` · `YAML 2.6%`
+**Total coded:** Updating...
 <!--END:WAKA-->
 
-### Recent activity
+### Recent Activity
 
 <!--START:ACTIVITY-->
-- **https://github.com/SRUN-Sochettra/SRUN-Sochettra** `JavaScript` — Personal README for GitHub Profile  
-  <sub>Pushed today</sub>
-- **https://github.com/SRUN-Sochettra/Hand-Gesture-Puzzle-Game** `Python` — A webcam-based puzzle game controlled with real-time hand gestures. Use your hand to grab shapes, drag them across the screen, and drop them into matching moving targets.  
-  <sub>Pushed today</sub>
-- **https://github.com/SRUN-Sochettra/AnimeRoyale** `JavaScript` — Your anime, manga, and light novel tracking statistics from AniList or MyAnimeList through the eyes of the "Egg Court".  
-  <sub>Pushed 5 days ago</sub>
-- **https://github.com/SRUN-Sochettra/Edge-AI-YOLOv8** `HTML` — _no description_  
-  <sub>Pushed 12 days ago</sub>
-- **https://github.com/SRUN-Sochettra/Flutter---Semester-2** `HTML` — _no description_  
-  <sub>Pushed 13 days ago</sub>
+- Working on personal projects
+- Learning Laravel & Spring Boot
+- Building AI & IoT projects
 <!--END:ACTIVITY-->
 
 </details>
 
+---
+
 <details>
-<summary><b>🎌 as a person</b></summary>
-<br />
-<img src="./assets/metrics-person.svg" alt="person" width="100%" />
+<summary><b>🙋 About Me</b></summary>
 
-### My top anime in order
-
-<!--START:ANIME-->
-<table>
-  <tr>
-    <td align="center" width="20%"><a href="https://anilist.co/anime/21769"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21769-ZBoT6szJKGZv.jpg" width="140" alt="SNAFU"/></a><br/><sub><b>SNAFU</b></sub></td>
-    <td align="center" width="20%"><a href="https://anilist.co/anime/101291"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-wfEdgPqtfU0l.jpg" width="140" alt="Bunny Girl Senpai"/></a><br/><sub><b>Bunny Girl Senpai</b></sub></td>
-    <td align="center" width="20%"><a href="https://anilist.co/anime/19469"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19469.jpg" width="140" alt="Saiki K."/></a><br/><sub><b>Saiki K.</b></sub></td>
-    <td align="center" width="20%"><a href="https://anilist.co/anime/16498"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg" width="140" alt="Attack on Titan"/></a><br/><sub><b>Attack on Titan</b></sub></td>
-    <td align="center" width="20%"><a href="https://anilist.co/anime/21382"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21382-bBJghvjTP8Dr.jpg" width="140" alt="Rewrite"/></a><br/><sub><b>Rewrite</b></sub></td>
-  </tr>
-</table>
-<!--END:ANIME-->
+- 💻 Learning Full Stack Development
+- 🌱 Currently studying Laravel, Java, Spring Boot
+- 🤖 Interested in AI, Computer Vision & IoT
+- 📱 Flutter Beginner
+- 🗄️ Database: MySQL & PostgreSQL
 
 </details>
 
+---
+
 <details>
-<summary><b>📊 by the numbers</b></summary>
-<br />
+<summary><b>🛠 Tech Stack</b></summary>
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
 <img src="./assets/metrics-data.svg" alt="data" width="100%" />
+
 </details>
 
-<sub align="right"><!--START:TIMESTAMP-->
-2026-06-30 02:36 UTC
-<!--END:TIMESTAMP--></sub>
+---
 
+<sub>
+<!--START:TIMESTAMP-->
+Last Updated: 2026-06-30
+<!--END:TIMESTAMP-->
+</sub>
 # 💫 About Me:
 Hello My Name is Sar Chanrithy.<br>
 
