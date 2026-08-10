@@ -1,7 +1,11 @@
 <div align="center">
 
 # Hi 👋 I'm Sar Chanrithy
-**Information Technology Student from Cambodia | Web Developer**
+**Information Technology Student from Cambodia study at num  | Web Developer**
+
+![Location](https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
+![University](https://img.shields.io/badge/University-National%20University%20of%20Management%20(NUM)-003366?style=for-the-badge&logo=education&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Web%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 💻 Full Stack Developer | 🌱 Learning Laravel, Spring Boot & AI
 
