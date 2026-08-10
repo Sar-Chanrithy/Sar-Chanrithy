@@ -10,7 +10,8 @@
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thy__akira007)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/ToroEmmSremm007/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/JangWuJi007)
 </div>
 
 ---
