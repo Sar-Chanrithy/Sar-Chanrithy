@@ -61,18 +61,18 @@
 
   <!-- Streak Stats Card (Top) -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Coughyyee&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838" alt="GitHub Streak" width="98%" />
+    <img src="https://streak-stats.demolab.com/?user=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838" alt="GitHub Streak" width="98%" />
   </p>
 
   <!-- GitHub Stats & Top Languages (Side-by-Side) -->
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Coughyyee&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838" alt="GitHub Stats" width="48.5%" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Coughyyee&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&layout=compact" alt="Top Languages" width="48.5%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Sar-Chanrithy&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838" alt="GitHub Stats" width="48.5%" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&layout=compact" alt="Top Languages" width="48.5%" />
   </p>
 
   <!-- My Contributions Activity Graph (Bottom) -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coughyyee&custom_title=My%20Contributions&bg_color=0d1117&color=ff3838&line=ff3838&point=ffffff&area=true&hide_border=false&border=30363d" alt="My Contributions Graph" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sar-Chanrithy&custom_title=My%20Contributions&bg_color=0d1117&color=ff3838&line=ff3838&point=ffffff&area=true&hide_border=true" alt="My Contributions Graph" width="98%" />
   </p>
 
 </div>
