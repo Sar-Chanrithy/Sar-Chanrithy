@@ -53,33 +53,33 @@
 
 ---
 
-<h2 align="left">🟪 Analytics</h2>
+## GitHub Stats
 
 <div align="center">
-
-<!-- ══════════════════════════════════════ -->
-<!--         STREAK STATS  (compact)        -->
-<!-- ══════════════════════════════════════ -->
-<img
-  src="https://streak-stats.demolab.com/?user=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838&sideLabels=ff3838&dates=8b949e&stroke=30363d"
-  alt="GitHub Streak"
-  width="55%"
-/>
-
-<br/><br/>
 
 <!-- ══════════════════════════════════════ -->
 <!--         STATS  +  LANGUAGES           -->
 <!-- ══════════════════════════════════════ -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Sar-Chanrithy&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838&text_color=c9d1d9&count_private=true&include_all_commits=true&show_rank=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=Sar-Chanrithy&custom_title=Sar-Chanrithy's%20GitHub%20Stats&show_icons=true&show_rank=true&title_color=0070f3&icon_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
   alt="GitHub Stats"
-  width="58%"
+  width="51%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&text_color=c9d1d9&layout=compact&langs_count=8&hide=html,css,cmake,hack,swift"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&layout=compact&hide=cmake,hack,swift&title_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
   alt="Top Languages"
-  width="39%"
+  width="45%"
+/>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════ -->
+<!--             STREAK STATS               -->
+<!-- ══════════════════════════════════════ -->
+<img
+  src="https://streak-stats.demolab.com/?user=Sar-Chanrithy&background=ffffff&border=e4e2e2&stroke=e4e2e2&ring=0070f3&fire=0070f3&currStreakNum=0070f3&sideNums=0070f3&currStreakLabel=0070f3&sideLabels=0070f3&dates=434d5a"
+  alt="GitHub Streak"
+  width="55%"
 />
 
 <br/><br/>
@@ -99,10 +99,47 @@
 <!--          CONTRIBUTION GRAPH            -->
 <!-- ══════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg" width="98%" />
 </picture>
 
 </div>
+
+
+## 📫 Connect With Me
+
+<div align="center">
+  <p>Feel free to reach out for collaboration opportunities or just to connect!</p>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/JangWuJi007" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/thy__akira007" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ToroEmmSremm007/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <p><i>Feel free to explore my projects, and don't hesitate to reach out for collaboration opportunities!</i></p>
+
+</div>
+
+<!-- Wave Footer Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74b9ff,100:0984e3&height=120&section=footer" width="100%" />
+
 
