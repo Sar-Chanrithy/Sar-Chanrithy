@@ -77,7 +77,7 @@
   width="58%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&text_color=c9d1d9&layout=compact&langs_count=8&hide=html,css"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&text_color=c9d1d9&layout=compact&langs_count=8&hide=html,css,cmake,hack,swift"
   alt="Top Languages"
   width="39%"
 />
