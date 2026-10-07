@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2D8EE8&center=true&vCenter=true&width=550&lines=AI+%26+Builder;NUM+Year+3+Student;Full-Stack+Developer)](https://git.io/typing-svg)
-
-### 🚀 AI & Builder | 🎓 NUM Year 3 Student | 💻 Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2D8EE8&center=true&vCenter=true&width=700&lines=AI+%26+Builder;NUM+Year+3+Student;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/University-NUM-003366?style=for-the-badge&logo=education&logoColor=white)
