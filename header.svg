@@ -1,0 +1,221 @@
+<svg width="100%" height="250" viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040711"/>
+      <stop offset="50%" stop-color="#080e1e"/>
+      <stop offset="100%" stop-color="#03050c"/>
+    </linearGradient>
+
+    <!-- Radial Ambient Glows -->
+    <radialGradient id="glowRight" cx="75%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#0066ff" stop-opacity="0.32"/>
+      <stop offset="45%" stop-color="#00d2ff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowLeft" cx="25%" cy="35%" r="40%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Electric Cyan Gradient for Streams -->
+    <linearGradient id="cyberStream1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0.1"/>
+      <stop offset="30%" stop-color="#00f0ff" stop-opacity="0.85"/>
+      <stop offset="65%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <linearGradient id="cyberStream2" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.15"/>
+      <stop offset="40%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#00f5ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Text Shimmer Gradient -->
+    <linearGradient id="textShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#a5f3fc"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+
+    <!-- Filters for Neon Glow -->
+    <filter id="neonGlowWide" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="neonGlowSharp" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#38bdf8" flood-opacity="0.65"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseData {
+      0% { stroke-dashoffset: 1400; }
+      100% { stroke-dashoffset: 0; }
+    }
+    @keyframes pulseReverse {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 1400; }
+    }
+    @keyframes waveFloat {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-7px); }
+    }
+    @keyframes waveFloatAlt {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(6px); }
+    }
+    @keyframes beaconBlink {
+      0%, 100% { opacity: 0.35; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+    @keyframes breatheSub {
+      0%, 100% { opacity: 0.75; }
+      50% { opacity: 1; }
+    }
+
+    .data-flow-1 {
+      stroke-dasharray: 60 180;
+      animation: pulseData 9s linear indefinite;
+    }
+    .data-flow-2 {
+      stroke-dasharray: 40 140;
+      animation: pulseData 6.5s linear indefinite;
+    }
+    .data-flow-3 {
+      stroke-dasharray: 80 220;
+      animation: pulseData 11s linear indefinite;
+    }
+    .data-flow-fast {
+      stroke-dasharray: 25 120;
+      animation: pulseData 4.8s linear indefinite;
+    }
+    .stream-layer-1 {
+      animation: waveFloat 7s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .stream-layer-2 {
+      animation: waveFloatAlt 8.5s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .status-dot {
+      animation: beaconBlink 2.2s ease-in-out infinite;
+      transform-origin: 90px 42px;
+    }
+    .subtitle-accent {
+      animation: breatheSub 3s ease-in-out infinite;
+    }
+
+    .font-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      letter-spacing: -0.8px;
+    }
+    .font-sub {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 600;
+    }
+    .font-tag {
+      font-family: 'SF Mono', Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      font-weight: 600;
+      letter-spacing: 1.8px;
+    }
+  </style>
+
+  <!-- Background Base Canvas -->
+  <rect width="1000" height="250" rx="14" fill="url(#bgGrad)"/>
+  <rect width="1000" height="250" rx="14" fill="url(#glowRight)"/>
+  <rect width="1000" height="250" rx="14" fill="url(#glowLeft)"/>
+
+  <!-- High-Tech Subtle Grid Overlay -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="0.8">
+    <line x1="0" y1="60" x2="1000" y2="60"/>
+    <line x1="0" y1="120" x2="1000" y2="120"/>
+    <line x1="0" y1="180" x2="1000" y2="180"/>
+    <line x1="200" y1="0" x2="200" y2="250"/>
+    <line x1="400" y1="0" x2="400" y2="250"/>
+    <line x1="600" y1="0" x2="600" y2="250"/>
+    <line x1="800" y1="0" x2="800" y2="250"/>
+  </g>
+
+  <!-- ================= CYBERNETIC FLOWING WAVES (RIGHT & CENTER) ================= -->
+  
+  <!-- Wave Layer 1: Ambient Outer Streams -->
+  <g class="stream-layer-1" opacity="0.45" filter="url(#neonGlowWide)">
+    <path d="M 280 120 C 420 40, 560 210, 720 120 C 820 60, 910 90, 1010 140" fill="none" stroke="#0077ff" stroke-width="3"/>
+    <path d="M 250 160 C 400 90, 520 250, 680 160 C 780 100, 890 140, 1010 200" fill="none" stroke="#00d2ff" stroke-width="2.5"/>
+    <path d="M 220 200 C 370 140, 480 290, 640 200 C 740 140, 850 190, 1010 250" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  </g>
+
+  <!-- Wave Layer 2: Core Bright Neon Ribbons -->
+  <g class="stream-layer-2" filter="url(#neonGlowSharp)">
+    <!-- Circuit Trace Stream 1 -->
+    <path d="M 300 135 C 430 65, 550 200, 710 125 C 800 80, 890 115, 1010 165" fill="none" stroke="url(#cyberStream1)" stroke-width="2.8"/>
+    <!-- Circuit Trace Stream 2 -->
+    <path d="M 260 170 C 390 100, 510 230, 670 155 C 770 105, 870 145, 1010 210" fill="none" stroke="url(#cyberStream2)" stroke-width="3.2"/>
+    <!-- Circuit Trace Stream 3 -->
+    <path d="M 230 205 C 360 140, 470 265, 630 185 C 730 135, 840 175, 1010 245" fill="none" stroke="url(#cyberStream1)" stroke-width="2.4"/>
+    <!-- Upper Horizon Stream -->
+    <path d="M 340 105 C 460 35, 590 170, 750 95 C 830 55, 910 85, 1010 130" fill="none" stroke="url(#cyberStream2)" stroke-width="1.8"/>
+  </g>
+
+  <!-- Animated High-Speed Data Pulses Traveling Along Streams -->
+  <g filter="url(#neonGlowWide)">
+    <path d="M 340 105 C 460 35, 590 170, 750 95 C 830 55, 910 85, 1010 130" fill="none" stroke="#ffffff" stroke-width="3.5" class="data-flow-fast"/>
+    <path d="M 300 135 C 430 65, 550 200, 710 125 C 800 80, 890 115, 1010 165" fill="none" stroke="#e0f2fe" stroke-width="4.5" class="data-flow-1"/>
+    <path d="M 260 170 C 390 100, 510 230, 670 155 C 770 105, 870 145, 1010 210" fill="none" stroke="#38bdf8" stroke-width="4" class="data-flow-2"/>
+    <path d="M 230 205 C 360 140, 470 265, 630 185 C 730 135, 840 175, 1010 245" fill="none" stroke="#7dd3fc" stroke-width="3.2" class="data-flow-3"/>
+  </g>
+
+  <!-- Cybernetic Nodes / Data Junction Rings -->
+  <g opacity="0.85">
+    <circle cx="530" cy="188" r="4" fill="#00f0ff" filter="url(#neonGlowSharp)"/>
+    <circle cx="530" cy="188" r="8" fill="none" stroke="#00f0ff" stroke-width="1" opacity="0.6"/>
+    
+    <circle cx="690" cy="136" r="3.5" fill="#38bdf8" filter="url(#neonGlowSharp)"/>
+    <circle cx="690" cy="136" r="7" fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.6"/>
+
+    <circle cx="830" cy="120" r="4" fill="#00d2ff" filter="url(#neonGlowSharp)"/>
+    <circle cx="830" cy="120" r="9" fill="none" stroke="#00d2ff" stroke-width="1" opacity="0.5"/>
+
+    <circle cx="750" cy="200" r="3" fill="#60a5fa" filter="url(#neonGlowSharp)"/>
+  </g>
+
+  <!-- ================= LEFT HERO CONTENT ================= -->
+
+  <!-- Top Status Badge Pill -->
+  <g transform="translate(70, 36)">
+    <rect width="235" height="30" rx="15" fill="#0b1329" stroke="#1e293b" stroke-width="1.2"/>
+    <circle cx="18" cy="15" r="4.5" fill="#00f0ff" class="status-dot"/>
+    <text x="32" y="19" fill="#38bdf8" font-size="11" class="font-tag">NUM YEAR 3 STUDENT</text>
+  </g>
+
+  <!-- Main Hero Title: Hi, I'm Sar Chanrithy -->
+  <text x="70" y="138" fill="#ffffff" font-size="52" class="font-title">
+    Hi, I'm <tspan fill="#ffffff">Sar Chanrithy</tspan>
+  </text>
+
+  <!-- Primary Role: AI & Builder • Full-Stack Developer -->
+  <text x="70" y="188" class="font-sub" font-size="26">
+    <tspan fill="#38bdf8" filter="url(#textGlow)">AI &amp; Builder</tspan>
+    <tspan fill="#64748b">  •  </tspan>
+    <tspan fill="#e2e8f0">Full-Stack Developer</tspan>
+  </text>
+</svg>

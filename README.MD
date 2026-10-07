@@ -1,0 +1,80 @@
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Sar Chanrithy - AI & Builder | NUM Year 3 Student" />
+</div>
+
+<h2 align="left">About Me</h2>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2D8EE8&center=true&vCenter=true&width=550&lines=AI+%26+Builder;NUM+Year+3+Student;Full-Stack+Developer)](https://git.io/typing-svg)
+
+### 🚀 AI & Builder | 🎓 NUM Year 3 Student | 💻 Full-Stack Developer
+
+![Location](https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
+![University](https://img.shields.io/badge/University-NUM-003366?style=for-the-badge&logo=education&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+🌱 Learning Laravel, Spring Boot & AI
+
+---
+
+### Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thy__akira007)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/ToroEmmSremm007/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/JangWuJi007)
+</div>
+
+---
+
+### Tech Stack
+
+#### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+#### Frameworks & Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+<h2 align="left">🟪 Analytics</h2>
+
+<div align="center">
+
+  <!-- Streak Stats Card (Top) -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Coughyyee&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838" alt="GitHub Streak" width="98%" />
+  </p>
+
+  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=Coughyyee&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838" alt="GitHub Stats" width="48.5%" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Coughyyee&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&layout=compact" alt="Top Languages" width="48.5%" />
+  </p>
+
+  <!-- My Contributions Activity Graph (Bottom) -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coughyyee&custom_title=My%20Contributions&bg_color=0d1117&color=ff3838&line=ff3838&point=ffffff&area=true&hide_border=false&border=30363d" alt="My Contributions Graph" width="98%" />
+  </p>
+
+</div>
+
+---
