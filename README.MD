@@ -72,7 +72,7 @@
 
   <!-- My Contributions Activity Graph (Bottom) -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sar-Chanrithy&custom_title=My%20Contributions&bg_color=0d1117&color=ff3838&line=ff3838&point=ffffff&area=true&hide_border=true" alt="My Contributions Graph" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sar-Chanrithy&theme=react-dark&custom_title=My%20Contributions&area=true&hide_border=true" alt="My Contributions Graph" width="98%" />
   </p>
 
 </div>
