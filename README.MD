@@ -86,11 +86,11 @@
 <!-- ══════════════════════════════════════ -->
 <!--               TROPHIES                 -->
 <!-- ══════════════════════════════════════ -->
-<img
+<!-- <img
   src="https://github-profile-trophy.vercel.app/?username=Sar-Chanrithy&theme=radical&no-frame=true&margin-w=8&row=1"
   alt="GitHub Trophies"
   width="98%"
-/>
+/> -->
 
 <br/><br/>
 
