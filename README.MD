@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2D8EE8&center=true&vCenter=true&width=700&lines=AI+%26+Builder;NUM+Year+3+Student;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3838&center=true&vCenter=true&width=700&lines=NUM+Year+3+Student;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/University-NUM-003366?style=for-the-badge&logo=education&logoColor=white)
@@ -17,7 +17,7 @@
 ---
 
 ### Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thy__akira007)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/thy__akira007)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/ToroEmmSremm007/)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/JangWuJi007)
@@ -57,22 +57,52 @@
 
 <div align="center">
 
-  <!-- Streak Stats Card (Top) -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838" alt="GitHub Streak" width="98%" />
-  </p>
+<!-- ══════════════════════════════════════ -->
+<!--         STREAK STATS  (compact)        -->
+<!-- ══════════════════════════════════════ -->
+<img
+  src="https://streak-stats.demolab.com/?user=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ff3838&fire=ff3838&currStreakLabel=ff3838&sideLabels=ff3838&dates=8b949e&stroke=30363d"
+  alt="GitHub Streak"
+  width="55%"
+/>
 
-  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Sar-Chanrithy&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838" alt="GitHub Stats" width="48.5%" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&layout=compact" alt="Top Languages" width="48.5%" />
-  </p>
+<br/><br/>
 
-  <!-- My Contributions Activity Graph (Bottom) -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sar-Chanrithy&theme=react-dark&custom_title=My%20Contributions&area=true&hide_border=true" alt="My Contributions Graph" width="98%" />
-  </p>
+<!-- ══════════════════════════════════════ -->
+<!--         STATS  +  LANGUAGES           -->
+<!-- ══════════════════════════════════════ -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Sar-Chanrithy&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&icon_color=ff3838&text_color=c9d1d9&count_private=true&include_all_commits=true&show_rank=true&rank_icon=github"
+  alt="GitHub Stats"
+  width="58%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ff3838&text_color=c9d1d9&layout=compact&langs_count=8&hide=html,css"
+  alt="Top Languages"
+  width="39%"
+/>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════ -->
+<!--               TROPHIES                 -->
+<!-- ══════════════════════════════════════ -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Sar-Chanrithy&theme=radical&no-frame=true&margin-w=8&row=1"
+  alt="GitHub Trophies"
+  width="98%"
+/>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════ -->
+<!--          CONTRIBUTION GRAPH            -->
+<!-- ══════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</picture>
 
 </div>
 
----

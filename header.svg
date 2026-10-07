@@ -212,10 +212,8 @@
     Hi, I'm <tspan fill="#ffffff">Sar Chanrithy</tspan>
   </text>
 
-  <!-- Primary Role: AI & Builder • Full-Stack Developer -->
+  <!-- Primary Role: Full-Stack Developer -->
   <text x="70" y="188" class="font-sub" font-size="26">
-    <tspan fill="#38bdf8" filter="url(#textGlow)">AI &amp; Builder</tspan>
-    <tspan fill="#64748b">  •  </tspan>
-    <tspan fill="#e2e8f0">Full-Stack Developer</tspan>
+    <tspan fill="#38bdf8" filter="url(#textGlow)">Full-Stack Developer</tspan>
   </text>
 </svg>
