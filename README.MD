@@ -60,12 +60,12 @@
 <!--         STATS  +  LANGUAGES           -->
 <!-- ══════════════════════════════════════ -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Sar-Chanrithy&custom_title=Sar-Chanrithy's%20GitHub%20Stats&show_icons=true&show_rank=true&title_color=0070f3&icon_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Sar-Chanrithy&custom_title=Sar-Chanrithy's%20GitHub%20Stats&show_icons=true&show_rank=true&title_color=0070f3&icon_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
   alt="GitHub Stats"
   width="51%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-Chanrithy&layout=compact&hide=html,css,cmake,hack,swift&title_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sar-Chanrithy&layout=compact&hide=html,css,cmake,hack,swift&title_color=0070f3&text_color=434d5a&bg_color=ffffff&border_color=e4e2e2"
   alt="Top Languages"
   width="45%"
 />
