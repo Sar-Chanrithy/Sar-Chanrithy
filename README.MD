@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="./header.svg" width="100%" alt="Sar Chanrithy — Full-stack developer, NUM Year 3 student, Phnom Penh" />
+<img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/header.svg" width="100%" alt="Sar Chanrithy — Full-stack developer, NUM Year 3 student, Phnom Penh" />
 
 <br />
 
@@ -22,7 +22,7 @@ Currently exploring **Laravel**, **Spring Boot**, and **AI**.
 
 ### Languages · Frameworks · Tools
 
-<img src="./assets/toolkit.svg" width="100%" alt="Languages: JavaScript, Python, PHP, Java, C++, Dart, HTML, CSS. Frameworks: React, Flutter, Laravel, Spring Boot, Tailwind, FastAPI. Databases: MySQL, PostgreSQL, SQLite." />
+<img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/toolkit.svg" width="100%" alt="Languages: JavaScript, Python, PHP, Java, C++, Dart, HTML, CSS. Frameworks: React, Flutter, Laravel, Spring Boot, Tailwind, FastAPI. Databases: MySQL, PostgreSQL, SQLite." />
 
 <br /><br />
 
@@ -30,8 +30,8 @@ Currently exploring **Laravel**, **Spring Boot**, and **AI**.
 
 ### GitHub at a glance
 
-<a href="https://github.com/Sar-Chanrithy?tab=repositories"><img src="./assets/generated/stats.svg" width="49%" alt="GitHub statistics: contributions in the last year, public repositories, stars and followers" /></a>
-<a href="https://github.com/Sar-Chanrithy?tab=repositories"><img src="./assets/generated/languages.svg" width="49%" alt="Top languages by code size across owned public repositories, excluding forks" /></a>
+<a href="https://github.com/Sar-Chanrithy?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/generated/stats.svg" width="49%" alt="GitHub statistics: contributions in the last year, public repositories, stars and followers" /></a>
+<a href="https://github.com/Sar-Chanrithy?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/generated/languages.svg" width="49%" alt="Top languages by code size across owned public repositories, excluding forks" /></a>
 
 <br /><br />
 
@@ -39,11 +39,11 @@ Currently exploring **Laravel**, **Spring Boot**, and **AI**.
 
 ### One contribution at a time
 
-<img src="./assets/generated/activity.svg" width="100%" alt="Weekly contributions over the last year" />
+<img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/generated/activity.svg" width="100%" alt="Weekly contributions over the last year" />
 
 <br />
 
-<img src="./assets/generated/contributions.svg" width="100%" alt="Isometric contribution calendar; taller columns represent greater daily contribution intensity" />
+<img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/generated/contributions.svg" width="100%" alt="Isometric contribution calendar; taller columns represent greater daily contribution intensity" />
 
 <sub>Activity over the last year · Language shares measure code size, not proficiency.</sub>
 
@@ -61,6 +61,6 @@ Open to conversations, learning together, and collaboration.
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="Keep learning. Keep building." />
+<img src="https://cdn.jsdelivr.net/gh/Sar-Chanrithy/Sar-Chanrithy@main/assets/footer.svg" width="100%" alt="Keep learning. Keep building." />
 
 </div>

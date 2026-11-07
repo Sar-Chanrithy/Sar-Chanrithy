@@ -2,7 +2,7 @@
 
 Open `README.MD` and press **Ctrl+Shift+V** in VS Code to preview the profile. For a dark browser preview, open `preview.html` directly.
 
-Cards are SVG files stored in `assets/generated/`. GitHub serves them directly; viewing the README does not call a third-party stats server.
+Cards are SVG files stored in `assets/generated/`. The profile loads them through jsDelivr and GitHub's image proxy to avoid direct redirects to `raw.githubusercontent.com`. The CDN can cache an older image, so displayed statistics may lag behind a successful update. The local `preview.html` uses the SVG files directly.
 
 ## First update
 
