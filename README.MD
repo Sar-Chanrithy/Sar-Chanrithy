@@ -98,9 +98,9 @@
 <!--          CONTRIBUTION GRAPH            -->
 <!-- ══════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg?v=calendar-2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake.svg?v=calendar-2" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sar-Chanrithy/Sar-Chanrithy/output/github-snake-dark.svg?v=calendar-2" width="98%" />
 </picture>
 
 </div>
