@@ -19,17 +19,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Match snake to the public contribution calendar
+        run: python3 scripts/generate_snake.py
+
+      - name: Generate ocean animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
-      - name: Match snake to the public contribution calendar
-        run: python3 scripts/generate_snake.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
